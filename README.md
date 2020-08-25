@@ -38,7 +38,7 @@ Recent high publicity events connected to UAVs pose both a risk of privacy intru
 </div>
 
 And subsequent Haar Cascade/ANN training results:
-[YouTube Video](https://www.youtube.com/watch?v=o6mxjR6GdA40
+[YouTube Video](https://www.youtube.com/watch?v=o6mxjR6GdA40)
 
 ****
 
@@ -50,6 +50,7 @@ The Drone Detection Dataset consists of 51446 train and 5375 test 640x480 RGB im
 Dataset availability: before full paper publication only snippet of 100 test & train images is available:
 - [Train Set Snippet](https://drive.google.com/file/d/1UOfNPwkenGH4x1rOAbUr3TVtXN_RcKya/view?usp=sharing)
 - [Test Set Snippet](https://drive.google.com/file/d/1uGXdLrQ9sZ4e2RaP2kMGa073jxeNQnIS/view?usp=sharing)
+
 Full dataset will be provided directly after article publication (approximately 5GB).
 
 ****
