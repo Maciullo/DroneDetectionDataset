@@ -1,7 +1,11 @@
 # Real World Object Detection Dataset For Quadcopter Unmanned Aerial Vehicle (UAV)
-* Effort show within the repository below and subsequent processing has been performed as a part of ongoing PhD on Engineering Applications of Artificial Intelligence under Warsaw University of Technology, Faculty of Power and Aeronautical Engineering, Warsaw, Poland.
+Effort shown within the following repository and subsequent processing has been performed as a part of ongoing PhD on Engineering Applications of Artificial Intelligence under Warsaw University of Technology, Faculty of Power and Aeronautical Engineering, Warsaw, Poland.
 
-|Author|Maciej Pawełczyk|Marek Wojtyra|
+****
+
+## Authors:
+- Maciej Pawełczyk
+- Marek Wojtyra
 
 ****
 
@@ -23,6 +27,7 @@ The difference between above and proposed datasets is that our proposed dataset 
 ****
 
 ## Motivation:
+
 Recent high publicity events connected to UAVs pose both a risk of privacy intrusion and critical infrastructure trespassing, possibly posing a danger of human harm in case of airports, power stations, water treatment plants and other. In order to reduce surveillance costs machine learning based methods can be applied to constantly monitor surroundings of such areas. Depending on the application low power and well established applications such as Haar Cascades (with easy to use OpenCV application) and/or Artificial Neural Networks (allowing greater accuracy, but suffering from higher computational requirements and difficulty in edge applications) can be used to protect sensitive areas from UAV intrusion.
 
 ****
@@ -31,12 +36,14 @@ Recent high publicity events connected to UAVs pose both a risk of privacy intru
 <div align="center">
     <img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G2P8362.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G3P378.jpg" width="400"/>
 </div>
+
 And subsequent Haar Cascade/ANN training results:
 [YouTube Video](https://www.youtube.com/watch?v=o6mxjR6GdA40
 
 ****
 
-- Dataset description: The Drone Detection Dataset consists of 51446 train and 5375 test 640x480 RGB images presenting drones in different types, sizes, scales, positions, environments, times-of-day with corresponding XML labels set, prepared for Haar Cascade training (which can and was easily modified for ANN training applications). Presented frames were manually annotated by the first author. While initial labelling (test set plus approximately 2000 images) required extensive author work, the subsequent images were initially labelled by trained Haar Cascade/ANN to reduce annotation time. Dataset frames were automatically extracted from the beforementioned videos (approximately 50-140 frame). 
+## Dataset description:
+The Drone Detection Dataset consists of 51446 train and 5375 test 640x480 RGB images presenting drones in different types, sizes, scales, positions, environments, times-of-day with corresponding XML labels set, prepared for Haar Cascade training (which can and was easily modified for ANN training applications). Presented frames were manually annotated by the first author. While initial labelling (test set plus approximately 2000 images) required extensive author work, the subsequent images were initially labelled by trained Haar Cascade/ANN to reduce annotation time. Dataset frames were automatically extracted from the beforementioned videos (approximately 50-140 frame). 
 
 ****
 
