@@ -17,6 +17,7 @@ The project is released under the MIT License for image tags. Video sources and 
 To our current knowledge there are two currently available UAV datasets:
 - https://github.com/ZhaoJ9014/Anti-UAV
 - https://github.com/CenekAlbl/drone-tracking-datasets
+
 The difference between above and proposed datasets is that our proposed dataset focuses more on drone detection in a range of environments rather than drone tracking. The motivation for this approach is an intrinsic challange of drone tracking (which can be easily disturbed by sudden obstruction) and model overfitting (when presenting too many images from the same distribution).
 
 ****
@@ -28,7 +29,7 @@ Recent high publicity events connected to UAVs pose both a risk of privacy intru
 
 ## Drone Detection Dataset:
 <div align="center">
-    <img src="https://github.com/Maciullo/DroneDetectionDataset/Fig/pos_G2P8362.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/Fig/pos_G3P378.jpg" width="400"/>
+    <img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G2P8362.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G3P378.jpg" width="400"/>
 </div>
 And subsequent Haar Cascade/ANN training results:
 [YouTube Video] (https://www.youtube.com/watch?v=o6mxjR6GdA40
