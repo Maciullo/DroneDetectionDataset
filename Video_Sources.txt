@@ -1,0 +1,649 @@
+VALIDATION SET - POSITIVES:
+VS_P001 - (2018-MAY-20) - #1 Top 100 Fails Drone 2016.avi
+VS_P002 - (2018-MAY-20) - $35 Portable foldable drone with camera 2018 Review - 4K.avi
+VS_P003 - (2018-MAY-20) - ANIMALS VS DRONES (Drone Crash Compilation).avi
+VS_P004 - (2018-MAY-20) - Doritos Drone Race #playbold.avi
+VS_P005 - (2018-MAY-20) - Drone Racing Battle _ Dude Perfect.avi
+VS_P006 - (2018-MAY-20) - EPIC DRONE RACE + CUSTOM Ali-A DRONE!.avi
+VS_P007 - (2018-MAY-20) - FLOUREON 250 FPV Race Drone Review - Part 2 - [Flight & Crash Test].avi
+VS_P008 - (2018-MAY-20) - GoPro Karma vs DJI Mavic vs Phantom 4 - ULTIMATE DRONE RACE!.avi
+VS_P009 - (2018-MAY-20) - How To Make A Flying Drone _ DIY Arduino Drone _ Indian LifeHacker.avi
+VS_P010 - (2018-MAY-20) - Intelligent, Deep Learning, Autonomous Drone.avi
+VS_P011 - (2018-MAY-20) - IROS 2017 Autonomous Drone Race_ Vision-based Navigation Running fully Onboard.avi
+VS_P012 - (2018-MAY-20) - LANCHI MONSTER .avi
+VS_P013 - (2018-MAY-20) - LHI 220 RTF FPV Race Drone Review - [Unbox %2F Inspection %2F Flight-CRASH! Test %2F Pros & Cons].avi
+VS_P014 - (2018-MAY-20) - PERFECT BEGINNER FPV RACE DRONE - Tovsto Falcon 210 - TheRcSaylors.avi
+VS_P015 - (2018-MAY-20) - RISE Vusion 250 First Acro Flight Impressions - MODULAR RTF FPV Race Drone - TheRcSaylors.avi
+VS_P016 - (2018-MAY-20) - Ryze Tello Drone Outdoor Flight Test Video.avi
+VS_P017 - (2018-MAY-20) - The astounding athletic power of quadcopters _ Raffaello D'Andrea.avi
+VS_P018 - (2018-MAY-20) - Walkera F210 3D _ Flite Test.avi
+VS_P019 - (2018-MAY-20) - WALKERA F210 FPV Race Drone Review - Part 2 - [Flight Test].avi
+VS_P020 - (2018-MAY-20) - World's Largest Race Drone _ Flite Test.avi
+VS_P021 - (2018-MAY-20) - BAYANGTOYS X21 Brushless RC Quadcopter.avi
+
+VALIDATION SET - NEGATIVES:
+VS_N001 - (2018-MAY-20) - ABANDONED - Walt Disney World Airport Runway - STOL Port.avi
+VS_N002 - (2018-MAY-20) - ABANDONED 747 AIRPLANES AND AIRPORT!!!.avi
+VS_N003 - (2018-MAY-20) - Abandoned 1950's Airport _ Nartron Air Field.avi
+VS_N004 - (2018-MAY-20) - Abandoned airplane in abandoned airport, Idaho capitol and Abe Lincoln (ATUS).avi
+VS_N005 - (2018-MAY-20) - Abandoned Airport (Mirabel International Airport).avi
+VS_N006 - (2018-MAY-20) - ABANDONED Airport Radio Tower - FOUND Elevator.avi
+VS_N007 - (2018-MAY-20) - Abandoned airport.avi
+VS_N008 - (2018-MAY-20) - Abandoned Soviet military air base near Heviz Balaton Airport in Hungary.avi
+VS_N009 - (2018-MAY-20) - CREEPIEST ABANDONED AIR BASES.avi
+VS_N010 - (2018-MAY-20) - Explore - Abandoned Airport Motel (Homeless Hideaway).avi
+VS_N011 - (2018-MAY-20) - GREECE, the abandoned ATHENS INTERNATIONAL AIRPORT (Hellinikon), a sentimental tour.avi
+VS_N012 - (2018-MAY-20) - Haverhill's Abandoned Dutton Airport..avi
+VS_N013 - (2018-MAY-20) - INSIDE A HUGE ABANDONED INTERNATIONAL AIRPORT (FOUND PLANE).avi
+VS_N014 - (2018-MAY-20) - Nicosia Cyprus Airport - Abandoned since 1974.avi
+VS_N015 - (2018-MAY-20) - Top 5 Abandoned%2FClosed Airports!.avi
+
+NO DRONES (NEGATIVES):
+N100 - What happens on the ground when you are landing.avi
+N101 - LAX Time-lapse South Runways 1080p.avi
+N102 - LAX Airport AIRPLANES RUNWAY LANDING TAKEOFF Beach Surf Waves Sand.avi
+N103 - Deep Woods Wild Camp.avi
+N104 - GoPro - Singapore Airlines Cargo Ramp Agent POV at Chicago O'Hare Int'l Airport [01.27.2014].avi
+N105 - LAX Plane Spotting runway 24L%2FR.avi
+N106 - ATV Camping trip Wood Lake.avi
+N107 - LOS ANGELES airport LAX airport runway planes takeoff landing ground crew.avi
+N108 - Los Angeles International Airport Plane Spotting from Imperial Hill _ A380, 747, 777 and more!.avi
+N109 - Alone in the Wild - A 5 Day Solo Excursion..avi
+N110 - AMAZING TIMELAPSE - Los Angeles International Airport KLAX%2FLAX Airport Action!.avi
+N111 - Hale creek and a secret cabin in the woods.avi
+N112 - 7 Days In The Wild.avi
+N113 (2017-12-31 For Validation Only) - ABANDONED ZOO - Belle Isle Safariland _ Detroit, MI.avi
+N114 (2017-12-31 For Validation Only) - Abandoned Water Park Hidden In The Forest! + Lost in ASYLUM TUNNEL.avi
+N115 (2017-12-31 For Validation Only) - Abandoned Soviet Space Shuttles (Buran) in Baikonur.avi
+N116 (2017-12-31 For Validation Only) - Abandoned 1950's Airport _ Nartron Air Field.avi
+N117 (2017-12-31 For Validation Only) - Abandoned airport Germany (Rangsdorf Soviet Airport) April 2017 with Gopro Hero5 urbex video.avi
+N118 (2017-12-31 For Validation Only) - ABANDONED PLANE FOUND 737.avi
+N119 (2017-12-31 For Validation Only) - Abandoned Millionaires Royal Hotel With Cars And Everything Inside.avi
+N120 (2017-12-31 For Validation Only) - Qantas Aircraft Boneyard _ Victorville, CA - USA _ Retirement of QF767s.avi
+N121 (2017-12-31 For Validation Only) - INSIDE A HUGE ABANDONED INTERNATIONAL AIRPORT (FOUND PLANE).avi
+N122 (2017-12-31 For Validation Only) - The World's Largest Abandoned City - Ordos.avi
+N123 (2017-12-31 For Validation Only) - ABANDONED 747 AIRPLANES AND AIRPORT!!!.avi
+N124 (2017-12-31 For Validation Only) - Exploring the Abandoned Kings Park Psychiatric Center.avi
+N125 (2017-12-31 For Validation Only) - Exploring Abandoned APOCALYPTIC CITY Gunkanjima BATTLESHIP ISLAND.avi
+N126 (2017-12-31 For Validation Only) - Largest Abandonment in America - WWII Ammo Factory.avi
+N127 (2017-12-31 For Validation Only) - Sneaking Inside an Abandoned Nuclear Plant!.avi
+
+DRONES (POSITIVES):
+1 - 4 WAYS TO TAKE DOWN ILLEGAL DRONES.avi
+2 - 6 Awesome Drones for 2017.avi
+3 - This is the most amazing drone we've seen yet.avi
+4 - Top 5 Best Drones You Should Have [Drone With Camera].avi
+5 - Blade Chroma 4K Camera Drone - Flite Test.avi
+6 - Beginner's Guide Part 1 - DJI Mavic Pro.avi
+7 - Watch This Before You Buy the DJI Phantom 4 - Hands on Review.avi
+8 - Dope Tech- The Best Drones!.avi
+9 - Top 5 Camera Drones under $100.avi
+10 - TU Delft - Ambulance Drone.avi
+11 - 10 Most Bizarre Drones.avi
+12 - FAA Drone Rules and Regulations.avi
+13 - Drone On- the Future of UAV Over the US.avi
+14 - 5 NEW Drone Inventions That Will Blow Your Mind.avi
+15 - 15 Coolest Machines That Makes you Fly.avi
+16 - How To Put A Gimbal On An Inexpensive Drone.avi
+17 - I Shot my Drone for SCIENCE - Skynet Drone Defense Test.avi
+18 - Prototype Quadrotor with Machine Gun!.avi
+19 - Shotgun vs Drone Airframe - UAV Torture Test by Aerial Sports League.avi
+20 - 4K Drohne unter 500€_ - Yuneec Typhoon Quadrocopter Review + Footage [4K] %2F%2F JRTech.avi
+21 - Amewi Intruder Quadrocopter XXL UFO.avi
+22 - Cinestar 8 Octocopter from Quadrocopter.avi
+23 - Dieser Quadrocopter flog uns um die Ohren.avi
+24 - DJI Phantom Quadrocopter mit GPS RTF Flight Demonstration Präsentation screening disconnect SX280 HS.avi
+25 - Drohnen - Quadrocopter - Multicopter Test WISO ZDF - YouTube.avi
+26 - DROHNEN MULTICOPTER TEST 2017 ► TOP 5 KAMERA DROHNEN _TESTSIEGER DJI deutsch %2F german.avi
+27 - Dromida Ominus Drohne Quadrocopter Indoor,Outdoor und Nightflight.avi
+28 - Dron z Biedronki. Hi 6038 quadrocopter. Hubsan 107.avi
+29 - Hobbyking KK2.1.5 Quadrocopter Selfmade mit SJ4000 und FS-i6 Quadcopter Drohne Deutsch.avi
+30 - JJRC H8D - Was taugt die 100€ Kamera Drohne_.avi
+31 - Kamera Drohne %2F Quadrocopter für unter 100 EURO - METAKOO Q323 im Test Review.avi
+32 - Kamera Drohne V303 Seeker Quadrocopter mit GPS & Autopilot Test Flug.avi
+33 - KingKong 90GT Mini FPV Racing Quadrocopter - Viel Power mit Brushless Motoren.avi
+34 - LRP Gravit Vision Quadrocopter - Full Flight with Onboard HD Cam & Crashes.avi
+35 - LRP H4 Gravit Quadrocopter + Camera video review (NL).avi
+36 - Quadrocopter Drohne mit Kamera ★ X30V Intruder ★ Bedienungsanleitung.avi
+37 - RC Heli Spy Quadrocopter Drone 2,4Ghz Kamera oder Bubbles etc. 360°Flip Q99 by Modellbauking.de.avi
+38 - RC Indoor X-Hornet 2,4 GHz Quadrocopter 4 Kanal Drohne Jamara RTF by modellbauking.de.avi
+39 - Revell FORMULA Q - Großer Action RC Quadrocopter %2F%2F Testbericht & Testflug.avi
+40 - Revell Nano Quadrocopter _ Review & Flight Video (Deutsch).avi
+41 - Revell Rayvore RC Quadcopter - Sports & Fun Quadrocopter %2F%2F Testbericht & Testflug.avi
+42 - Revell SPOT - RC Kamera Quadrocopter %2F%2F Testbericht & Testflug.avi
+43 - Revell X Spy Mini Fpv Wifi Quadrocopter %2F%2F Unboxing Review Test Flight %2F%2F Sj4000 %2F%2F Nano Fpv %2F%2F.avi
+44 - Revell X-Spy %2F%2F RC Quadrocopter mit FPV Kamera - Testbericht und Testflug.avi
+45 - SKY-HERO Little Spyder quadrocopter video review (NL).avi
+46 - SKY-HERO Spyder 700 X4 quadrocopter video review (NL).avi
+47 - Syma X8C - RC Quadrocopter mit 2MP HD Kamera von Gearbest %2F Testbericht & Testflug.avi
+48 - UDI U818A Review Deutsch - Einsteiger Quadrocopter (gizchina.de).avi
+49 - Unboxing - Quadrocopter Blade 350 QX2 - DX4 - Drohne - Deutsch.avi
+50 - Unboxing+Vorstellung vom Revell Control RC Quadrocopter Go_#DEUTSCH#.avi
+51 - Unknown.avi
+52 - Xiro Xplorer V Quadrocopter (Teil 1%2F2)  %2F%2F deutsch %2F%2F in 4K %2F%2F #86.avi
+53 - Xiro Xplorer V Quadrocopter (Teil 2%2F2) %2F%2F deutsch %2F%2F in FHD %2F%2F #7.avi
+54 - XXL Quadrocopter Drohne.avi
+55 - Сбили квадрокоптер из ружья. Quadrocopter Xiro shoot down with the shotgun.avi
+56 - (2017-12-31) - Mavic Pro Vs. Phantom 4 Pro _ Best Drone of 2017 and 2018 _.avi
+57 - (2017-12-31) - WLTOYS Q696 A REVIEW, TEST,FLIGHT , VOL , SUPERBE !!! ,GEARBEST DRONE.avi
+58 - (2017-12-31) - JIE X8 SKYHUNTER (Mavic clone)Gearbest drone , Review , test , first flight.avi
+59 - (2017-12-31) - BAYANTOYS X21 DOUBLE GPS, FULL REVIEW ,TEST COMPLET ,VOL ,FOLLOW ME ,CIRCLE POINT,GEARBEST DRONE.avi
+60 - (2018-MAY-07) - ZeroTech Dobby Selfie Drone Outdoor Flight Testing.avi
+61 - (2018-MAY-07) - Testing the Drone and Other Tomfoolery.avi
+62 - (2018-MAY-07) - Syma X5SW Drone FPV Test Flight.avi
+63 - (2018-MAY-07) - Yuneec Typhoon Q500+ Drone Unboxing, Setup and Testing.avi
+64 - (2018-MAY-07) - Walkera Aibao VR Gaming Drone Flight Testing.avi
+65 - (2018-MAY-07) - Sky Viper V2900 Full Flight Testing GPS DRONE UAV REVIEW GEOFENCING.avi
+66 - (2018-MAY-07) - 10 Drones You've NEVER SEEN Like This....avi
+67 - (2018-MAY-07) - Top 5 Best Drones Available Now (2017).avi
+68 - (2018-MAY-07) - Top 10 Best Drones You Should Have In 2018 [ Best Camera Drone].avi
+69 - (2018-MAY-07) - Sky Viper V2900 Pro Test Flight, What a Turkey.avi
+70 - (2018-MAY-07) - How to Fly a Drone (& NOT Crash) - in 4K!.avi
+71 - (2018-MAY-07) - Hands-On with Skydio R1 Autonomous Drone!.avi
+72 - (2018-MAY-07) - Sky Viper V2900 20 MIN Full Flight Testing GPS DRONE UAV REVIEW.avi
+73 - (2018-MAY-07) - OCTOCOPTER DRONE TESTING FOR AERIAL PHOTOGRAPHY.avi
+74 - (2018-MAY-07) - Giant Agricultural Spray Drone Maiden Flight Testing.avi
+75 - (2018-MAY-07) - DJI MG-1S - Agricultural Wonder Drone.avi
+76 - (2018-MAY-07) - JMRRC V1200 10L payload umbrella folding Agriculture UAV spray drone testing video for customer.avi
+77 - (2018-MAY-07) - Flying Drone Testing.avi
+78 - (2018-MAY-07) - Auto spray JMR-X1380S agriculture uav crop sprayer drone testing flight vedio for Columbia customer.avi
+79 - (2018-MAY-07) - Drone testing.avi
+80 - (2018-MAY-07) - 216 - Cheerson CX-20 GPS Drone - "Testing DJI 9450 Carbon Fiber Reinforced Propellers" - [Sharp79].avi
+81 - (2018-MAY-07) - Phantom 4 - DJI Drone Testing.avi
+82 - (2018-MAY-07) - Eachine Racer 250 Drone Flight Test Review.avi
+83 - (2018-MAY-07) - Drone Testing in Central New York | MetroFocus.avi
+84 - (2018-MAY-07) - Amazon Testing Drone Delivery System.avi
+85 - (2018-MAY-07) - UPS Residential Delivery via Drone.avi
+86 - (2018-MAY-12) - DJI Spark Quickshot and Gesture Control Flight Test Review.avi
+87 - (2018-MAY-12) - Webinar_ UAV LiDAR Flight Planning & Tips.avi
+88 - (2018-MAY-12) - Teal Sport 80MPH+ Ready to Fly Racing%2F Freestyle Drone Review.avi
+89 - (2018-MAY-12) - PARROT SWING VTOL Drone%2FPlane + FlyPad - Full Review - [Unboxing, Setup, Flight Test, Pros & Cons].avi
+90 - (2018-MAY-12) - DJI Mavic - Set Up & First Flight.avi
+91 - (2018-MAY-12) - Xinlin Shiye X198 Brushless GPS Follow Me Drone Flight Test Review.avi
+92 - (2018-MAY-12) - X183 Double GPS Follow and Circle Me FPV Camera Drone Flight Test Review.avi
+93 - (2018-MAY-12) - Walkera Furious 320 GPS_ Speedtest.avi
+94 - (2018-MAY-12) - Walkera Furious 320 Dragster Drone Flight Test Review.avi
+95 - (2018-MAY-12) - Walkera Voyager 4 Zoom 16-18x Quadcopter Review.avi
+96 - (2018-MAY-12) - Furious 320 Race Drone 1St Flight.avi
+97 - (2018-MAY-12) - SY X25-1 Space Explorer Flying Car Drone Flight Test Review.avi
+98 - (2018-MAY-12) - Review GPS Racing Drone Walkera Furious320 - Bisa Ngebut 120km%2Fjam Cak !!! - VLOG #25.avi
+99 - (2018-MAY-12) - Ryze Tello - Budget DJI Drone For Beginners - Indoor & Outdoor Flight Test - TheRcSaylors.avi
+100 - (2018-MAY-12) - X183 Double GPS Follow and Circle Me FPV Camera Drone Flight Test Review (1).avi
+101 - (2018-MAY-12) - FQ777 FQ20W FPV Camera Drone WiFi Repeater Test Flight.avi
+102 - (2018-MAY-12) - Syma X5SC Drone Test Flight.avi
+103 - (2018-MAY-12) - Simtoo Dragonfly Pro Folding Follow Me Drone Flight Test Review.avi
+104 - (2018-MAY-12) - FPV Drone Racing from Moving Car.avi
+105 - (2018-MAY-12) - 2017 Best Beginner Race Drone _! Tovsto Falcon 210 (Gearbest.com) Redcat Carbon 210 %2F Rapid Drone.avi
+106 - (2018-MAY-12) - DJI Phantom 1 Beginners Tutorial Review Charging Taking Off Flying Landing Storing Drone Quad.avi
+107 - (2018-MAY-12) - C-Fly Obtain F803 Brushless FPV Folding 1080p FHD Camera Drone Flight Test Review.avi
+108 - (2018-MAY-12) - Watch This Before You Buy Walkera Vitus 320.avi
+109 - (2018-MAY-14) - DJI SPARK KILLER_! - 4K Feima Robotics J.ME Drone Review - Part 2 - Flight Test %2F Pros & Cons.avi
+110 - (2018-MAY-14) - How to fly a Drone - A to Z Beginners Course.avi
+111 - (2018-MAY-14) - Hubsan H501S Follow Me Drone Flight Test Review.avi
+112 - (2018-MAY-14) - Hubsan H501S Follow Me GPS FPV Vacation Drone Flight Test Review.avi
+113 - (2018-MAY-14) - Hubsan H502E Worlds Cheapest GPS Camera Drone Flight Test Review.avi
+114 - (2018-MAY-14) - Hubsan H507A GPS FPV Waypoint Follow Me Drone Flight Test Review.avi
+115 - (2018-MAY-14) - HUBSAN H507A X4 STAR GPS Drone - Full Review - [Unboxing, Flight Test, BEE ATTACK!, Pros & Cons].avi
+116 - (2018-MAY-14) - How To Fly A Drone Like A Pro.avi
+117 - (2018-MAY-14) - How To Fly A Drone - Quad Basics.avi
+118 - (2018-MAY-14) - Florld F16W Cheap folding quad drone TX or APP flight WiFi FPV 0.3mp camera 9 minute flight.avi
+119 - (2018-MAY-14) - GPS Camera Drone Carries GoPro Action Cams - BAYANGTOYS X21 - TheRcSaylors.avi
+120 - (2018-MAY-14) - JJPRO X3 Hax GPS FPV 1080p Camera Brushless Drone Flight Test Review.avi
+121 - (2018-MAY-14) - Ideafly Grasshopper F210 FPV Racing Drone Flight Test Review.avi
+122 - (2018-MAY-14) - GDU O2 Sliding Arm 4K Camera 3 Axis Gimbal Obstacle Avoidance Drone Flight Test Review.avi
+123 - (2018-MAY-14) - KAI DENG K80 PANTONMA Drone Unboxing, TX Functions Flight In-depth review & Summary.avi
+124 - (2018-MAY-14) - FAYEE FY603 Mini FPV Drone - Full Review - [Unboxing, Inspection, Flight%2FCrash Test, Pros & Cons].avi
+125 - (2018-MAY-14) - JYU Hornet S High Speed GPS FPV Explorer Drone Flight Test Review.avi
+126 - (2018-MAY-14) - KAIDENG PANTONMA K80 Drone - Full Review - [UnBoxing, Inspection, Setup, Flight Test, Pros & Cons].avi
+127 - (2018-MAY-14) - KINGKONG FLY EGG 130 130mm Brushless FPV Racing Drone.avi
+128 - (2018-MAY-14) - KINGKONG 136mm FPV EGG RC Racing Drone Flight Test.avi
+129 - (2018-MAY-14) - MJX BUGS 3 - Full Review - [Unbox %2F Setup %2F Flight Test %2F Pros & Cons].avi
+130 - (2018-MAY-14) - MJX X400 Mini QuadCopter Drone Review - [Setup, Flight Test, Pros and Cons].avi
+131 - (2018-MAY-14) - MJX Bugs 8 Full Size Brushless Entry Level FPV Racing Drone Flight Test Review.avi
+132 - (2018-MAY-14) - Official 2016 GoPro National Drone Racing Championships ESPN _ drones racing national championships.avi
+133 - (2018-MAY-14) - Parrot Mini Drones - Rolling Spider - Review and Flight.avi
+134 - (2018-MAY-14) - MJX RC Bugs 3 Low Cost Brushless Motor Camera Drone Flight Test Review.avi
+135 - (2018-MAY-14) - Mini Orion Live Feed LCD Screen Camera Drone from QVC %2F World Tech Elite - Unboxing and Overview.avi
+136 - (2018-MAY-14) - MJX Bugs 2W B2W High Speed GPS FPV Drone Flight Test Review.avi
+137 - (2018-MAY-14) - Eachine Racer 250 FPV Drone Review - Part 2 - [Flight & Crash Test].avi
+138 - (2018-MAY-14) - New, quicker FAA authorization for drones _ Hey.film podcast ep56.avi
+139 - (2018-MAY-14) - EACHINE E51 SELFIE DRONE BANGGOOD, REVIEW , FLIGHT ,TEST.avi
+140 - (2018-MAY-14) - DJI MAVIC PRO (DRONE) DOWNTOWN TAMPA & YBOR CITY.avi
+141 - (2018-MAY-14) - RC-136WGS 1080p HD GPS Camera Drone Flight Test Review.avi
+142 - (2018-MAY-14) - Sky Viper V2900 Manual Testing 20 min FLIGHT GPS DRONE UAV REVIEW GEOFENCING OFF.avi
+143 - (2018-MAY-14) - SJRC S70W T70S GPS Follow Me Drone Flight Test Review.avi
+144 - (2018-MAY-14) - DJI RIZE TELLO UNBOXING REVIEW TEST FLIGHT HOBBYGAGA QUADCOPTER DRONE EXPRESSION INTEL FR.avi
+145 - (2018-MAY-14) - RC LEADING RC136 Review , test , vol , flight , presentation globale , Gearbest drone.avi
+146 - (2018-MAY-14) - SYMA X5UC Camera Drone - Full Review - [UnBoxing, Inspection, Setup, Flight Test, Pros & Cons].avi
+147 - (2018-MAY-14) - SYMA X5SW FPV QuadCopter Drone Review - Setup, Flight Test, Pros & Cons [Battery Upgrade].avi
+148 - (2018-MAY-14) - SwellPro Swift 2 Waterproof RTF FPV Racing Drone Flight Test Review.avi
+149 - (2018-MAY-14) - The New Tello Drone By Ryze - The Most Fun Flying You Can have For Under $100.avi
+150 - (2018-MAY-14) - Tarantula Spider 1505 Drone Flight Test Review.avi
+151 - (2018-MAY-14) - ULTIMATE SELFIE DRONE - XIRO Xplorer MINI - REVIEW & FLIGHT.avi
+152 - (2018-MAY-14) - UPAir ONE Plus 4K - Full Review - [ Unbox, Setup, Flight Test, Pros & Cons ].avi
+153 - (2018-MAY-14) - THY TY-T6 Phantasm The Longest Flying Toy FPV Drone Flight Test Review.avi
+154 - (2018-MAY-14) - SPC MAKER 95GF Micro FPV Racing Drone - Full Review - [Unboxing, Inspection, Flight %2F CRASH! Test].avi
+155 - (2018-MAY-14) - Wingsland M5 Brushless GPS Camera Drone Flight Test Review.avi
+156 - (2018-MAY-14) - SwellPro SPLASH DRONE (Waterproof Drone) - Flight Review - [Flight Test %2F Pros & Cons].avi
+157 - (2018-MAY-14) - Upgraded Bayangtoys X5C-1 720p HD FPV Drone Flight Test Review.avi
+158 - (2018-MAY-14) - 3DR Solo - Unboxing, Set Up, First Flight.avi
+159 - (2018-MAY-14) - 25 MINUTE FLIGHT TIME TOY GRADE QUADCOPTER DRONE MaH MOD.avi
+160 - (2018-MAY-14) - ARRIS X220 PRO FPV Race Drone - Full Review - Unboxing, Flight%2FCRASH Test, Pros & Cons.avi
+161 - (2018-MAY-14) - Banyangtoys X21 Drone Quadcopter Unboxed and Flying - with Test Flying Clips.avi
+162 - (2018-MAY-14) - Bayangtoys X21 Dual GPS FPV Follow and Circle Me Drone Flight Test Review.avi
+163 - (2018-MAY-14) - Cheerson CX-22 Drone Flight Test Review Part 1, FPV and Telemetry.avi
+164 - (2018-MAY-14) - Cheerson CX-23 Small GPS FPV Explorer Drone Flight Test Review.avi
+165 - (2018-MAY-14) - DJI Inspire 2 Complete review-Test-Comparison.avi
+166 - (2018-MAY-14) - DJI MATRICE 200 AND 210 RTK COMPREHENSIVE TEST AND REVIEW.avi
+167 - (2018-MAY-14) - DJI Mavic Flight Around Beautiful Belize City 4k.avi
+168 - (2018-MAY-14) - DJI MAVIC PRO Review - Part 3 - [6 Mile In-Depth Range Test].avi
+169 - (2018-MAY-14) - DJI Phantom 4 Pro Flight Test Demonstration.avi
+170 - (2018-MAY-14) - W609-10 HD Mini HexCopter Drone - In Depth Review Flight Video Mods and Opinions After 10+ Flights.avi
+171 - (2018-MAY-14) - WLToys Q696-A 2 Axis Gimbal FPV Telemetry 1080p Camera Drone Flight Test Review.avi
+172 - (2018-MAY-14) - Xiaomi 4k Mi Drone Review and Test flight with Autel XSP comparison footage.avi
+173 - (2018-MAY-14) - Yuneec Q500 Typhoon HD Drone, Setup, Calibration & Pre Flight How To Tutorial.avi
+174 - (2018-MAY-14) - XK AIRCAM X500 Large GPS Drone Flight Test Review.avi
+175 - (2018-MAY-14) - XK X380 GPS Drone Long Range Mod - 4 Mile FPV Flight [With In Flight Commentary].avi
+176 - (2018-MAY-14) - Yuneec Typhoon H Getting Started, Setting Up, Calibration, How to Fly.avi
+177 - (2018-MAY-14) - Xiaomi Mi Drone Flight Test Review Jellybeans and Lollipops.avi
+178 - (2018-MAY-14) - Xinlin X163F FPV Drone Flight Test Review.avi
+179 - (2018-MAY-14) - Xiaomi Mi Drone Setup, App, Firmware Update and Flight.avi
+180 - (2018-MAY-14) - X52HD RC Drone RTF with 720P HD Camera.avi
+181 - (2018-MAY-14) - Zendrone Blazer 250 Pro GPS FPV Racer Drone Flight Test Review - YouTube.avi
+182 - (2018-MAY-14) - GoPro Karma Killer!_ HALO DRONE PRO Flight Test Review Part 1 - With TX & Tracker - 2018 Top Drone_.avi
+183 - (2018-MAY-21) - 2017 BEST DRONES - BUYER'S GUIDE.avi
+184 - (2018-MAY-21) - Building your own quadcopter! (S500 Frame + APM 2.8).avi
+185 - (2018-MAY-21) - chAIR -Manned multirotor Episode 20 -First Flight! Axel Borg.avi
+186 - (2018-MAY-21) - CHEERSON CX10-D NANO QuadCopter Full Review - [UnBox, Inpection, Flight Test, Pros & Cons].avi
+187 - (2018-MAY-21) - Contixo F10 Plus Unboxing, Review and Flight Test - Had to Give This One a Nickname.avi
+188 - (2018-MAY-21) - DJI PHANTOM 2 Review - [Flight Test - Vision+ Version] - YouTube.avi
+189 - (2018-MAY-21) - DJI Phantom 4 Pro Obsidian - BEST DRONE EVER.avi
+190 - (2018-MAY-21) - DJI Ryze Tello Selfie Drone Flight Test Review.avi
+191 - (2018-MAY-21) - Flying drone quadrocopter 33 minutes.avi
+192 - (2018-MAY-21) - FPV Quadcopter Build Tutorial.avi
+193 - (2018-MAY-21) - Get FPV DRONE RACING for ONLY $200!! Full Guide 2017 + GIVE AWAY.avi
+194 - (2018-MAY-21) - Hands-On with DJI's Phantom 3 Professional Quadcopter Drone!.avi
+195 - (2018-MAY-21) - Hubsan - X4 FPV Brushless (H501S) - Review and Flight.avi
+196 - (2018-MAY-21) - Hubsan H216A X4 Desire GPS FPV Explorer Drone Flight Test Review.avi
+197 - (2018-MAY-21) - Hubsan H502S Worlds Cheapest GPS Follow Me FPV Camera Drone Flight Test Review.avi
+198 - (2018-MAY-21) - Hubsan X4 Pro H109S Long Range FPV Flight Test Review.avi
+199 - (2018-MAY-21) - KaiDeng K130 Alpha Mini WIFI FPV Folding Arm RC Quadcopter.avi
+200 - (2018-MAY-21) - LH - X25S remote tilt camera drone.avi
+201 - (2018-MAY-21) - New UPAir One OSD FPV GPS Long Range Explorer Drone Flight Test Review.avi
+202 - (2018-MAY-21) - RealFlight Drone Simulator Drone Training Tips and Learn How to Fly with TheRcSaylors.avi
+203 - (2018-MAY-21) - Syma X5SW Quadcopter - [Unboxing & Review] - 6 Axis - 2.4GHz - WIFI - FPV - 2MP Camera.avi
+204 - (2018-MAY-21) - SYMA X8 Pro GPS Brushed RC Quadcopter.avi
+205 - (2018-MAY-21) - Syma x8 pro with GPS full review & flight failed%2FFaulty&Dangerous quadcopter from manufacturer!!!.avi
+206 - (2018-MAY-21) - UPair ONE - Full Review - [Unbox, Inspection, Setup, Flight Test, Pros & Cons].avi
+207 - (2018-MAY-21) - Visuo Drone Tianqu xs809w Foldable RC Quadcopter.avi
+208 - (2018-MAY-21) - Wingsland S6 Pocket Drone with GPS Review and Maiden Flight.avi
+209 - (2018-MAY-21) - WLToys Q323-C Large Altitude Hold Drone Flight Test Review.avi
+210 - (2018-MAY-21) - Xiaomi Mi Drone Flight Test Review.avi
+211 - (2018-MAY-25) - 1501 Space Predator Best Vacation Drones Night Flying.avi
+212 - (2018-MAY-25) - 1506 Hawkeye Nano Camera Drone Flight Test Review.avi
+213 - (2018-MAY-25) - Add an FPV Transmitter to a Quadcopter's Action Camera..avi
+214 - (2018-MAY-25) - AEE Sparrow Position Hold Brushless FHD Selfie Drone Flight Test Review.avi
+215 - (2018-MAY-25) - AEE Sparrow Position Hold FHD Selfie Camera Drone Endurance Flight.avi
+216 - (2018-MAY-25) - Air Hogs Helix Sentinel Drone Flight Test Review Part 1.avi
+217 - (2018-MAY-25) - AirSelfie E03 Selfie 1080p HD Camera Drone Flight Test Review.avi
+218 - (2018-MAY-25) - AR11000 UAV Gaming Drone Flight Test Review.avi
+219 - (2018-MAY-25) - ATTOP XT 1 Folding FPV Drone Flight Test Review.avi
+220 - (2018-MAY-25) - BAYANGTOYS X5C-1 Upgraded Version WIFI FPV Flight Test Review.avi
+221 - (2018-MAY-25) - Bayangtoys X8 Camera Drone Great Syma X5C Clone.avi
+222 - (2018-MAY-25) - Bayangtoys X9 Drone.avi
+223 - (2018-MAY-25) - Bayangtoys X9 Loops and Rolls.avi
+224 - (2018-MAY-25) - Best Quadcopter Drone for Beginners_ Flies circles around Air Hogs Helix X4!.avi
+225 - (2018-MAY-25) - Best Sport Drones_ The MJX X400.avi
+226 - (2018-MAY-25) - Best Sport Drones_ The Nihui U807.avi
+227 - (2018-MAY-25) - Beta65S Inductrix Whoop Style Micro FPV Drone Flight Test Review.avi
+228 - (2018-MAY-25) - Beta75 Inductrix Whoop Style Micro FPV Drone Flight Test Review.avi
+229 - (2018-MAY-25) - Bojiang S1 Drone Day Night Test Flight Review.avi
+230 - (2018-MAY-25) - CG022 Quadcopter Drone Test Flight.avi
+231 - (2018-MAY-25) - CG022 Quadcopter Extreme Acrobatic Flipping and Speed.avi
+232 - (2018-MAY-25) - CG023 Nano Quadcopter_ Road to Trona.avi
+233 - (2018-MAY-25) - CG023 Nano QX Clone Test Flight.avi
+234 - (2018-MAY-25) - CG023 vs L6052 The Drone Clone Wars.avi
+235 - (2018-MAY-25) - Cheerson CX-20 Drone, Oops!.avi
+236 - (2018-MAY-25) - Cheerson CX-33S Drone FPV Tree Slalom.avi
+237 - (2018-MAY-25) - Cheerson CX-33S FPV Drone Flight Test Review.avi
+238 - (2018-MAY-25) - Cheerson CX-40 Frog Optical Flow Position Hold FPV Camera Drone Flight Test Review.avi
+239 - (2018-MAY-25) - Cheerson CX20 Drone Automatic GPS Return to Home.avi
+240 - (2018-MAY-25) - Cheerson CX35 Large Altitude Hold FPV Drone Flight Test Review.avi
+241 - (2018-MAY-25) - CheerWing CW4 Camera Drone Flight Test Review, The X5C Successor!.avi
+242 - (2018-MAY-25) - Create Toys E902 Prober Speeder Drone Flight Test Review.avi
+243 - (2018-MAY-25) - CSJ-X3 Photon Phantom Spirit Cage Drone Flight Test Review.avi
+244 - (2018-MAY-25) - DFD F181 Drone Flight Test Review.avi
+245 - (2018-MAY-25) - DHD D3 Mini Reddie Cage Drone Flight Test Review.avi
+246 - (2018-MAY-25) - DJI Phantom 4 Pro Drone Review_ Active Tracking.avi
+247 - (2018-MAY-25) - DJI Spark ActiveTrack Trace and Profile Modes Flight Test Review.avi
+248 - (2018-MAY-25) - DLFPV DL 1060 Micro FPV RTF with Monitor Flight Test Review.avi
+249 - (2018-MAY-25) - DM007 Spy Drone Camera Modification.avi
+250 - (2018-MAY-25) - DM007 Spy Drone Test Flight.avi
+251 - (2018-MAY-25) - DM007 Spy Drone with 2MP Camera.avi
+252 - (2018-MAY-25) - DM007 Spy Drone with 808 HD Camera.avi
+253 - (2018-MAY-25) - DM007 Spy Drone with Wide Angle Lens Modification.avi
+254 - (2018-MAY-25) - DROCON Navigator UDI U31W Telemetry 720p HD FPV Camera Drone Flight Test Review.avi
+255 - (2018-MAY-25) - Drone Flying Lesson, Rapid Descent & Thermals.avi
+256 - (2018-MAY-25) - DT140 Space Wolf Brushless Micro FPV Racer Flight Test Review.avi
+257 - (2018-MAY-25) - E904 Sylph Fly Ultra Nano Drone Flight Test Review.avi
+258 - (2018-MAY-25) - Eachine 180 Tiltrotor High Speed Desert Runs.avi
+259 - (2018-MAY-25) - Eachine 3D X4 The Upside Down Drone Part 1.avi
+260 - (2018-MAY-25) - Eachine 3D X4 The Upside Down Drone Part 3.avi
+261 - (2018-MAY-25) - Eachine Assassin 180 FPV Drone Flight Test Review.avi
+262 - (2018-MAY-25) - Eachine BAT QX105 Micro FPV Racing Drone Flight Test Review.avi
+263 - (2018-MAY-25) - Eachine E010 Tiny Whoop Blade Inductrix Clone Flight Test Review.avi
+264 - (2018-MAY-25) - Eachine E20 Mini Spider Drone Flight Test Review.avi
+265 - (2018-MAY-25) - Eachine E30W FPV Camera Drone Flight Test Review.avi
+266 - (2018-MAY-25) - Eachine E50 Selfie Drone Flight Test Review.avi
+267 - (2018-MAY-25) - Eachine E53 Folding FPV Drone Flight Test Review.avi
+268 - (2018-MAY-25) - Eachine E58 720P Folding FPV Camera Drone Flight Test Review.avi
+269 - (2018-MAY-25) - Eachine E70 Micro Sport Drone Flight Test Review.avi
+270 - (2018-MAY-25) - Eachine Falcon 120 FPV Racer Drone Flight Test Review.avi
+271 - (2018-MAY-25) - Eachine Falcon 180 FPV Racer Drone Flight Test Review.avi
+272 - (2018-MAY-25) - Eachine Flyingfrog Q90 Micro FPV Racer New PIDs Test Review.avi
+273 - (2018-MAY-25) - Eachine H99W FPV Drone Flight Test Review.avi
+274 - (2018-MAY-25) - Eachine JJRC H8 World's Cheapest Drone Test Flight.avi
+275 - (2018-MAY-25) - Eachine Q90C Intro Micro FPV Drone Flight Test Review.avi
+276 - (2018-MAY-25) - Eachine Racer 180 Tilt Rotor FPV Drone Flight Test Review.avi
+277 - (2018-MAY-25) - Eachine Racer 250 Drone with QAV250 CC3D Presets - YouTube.avi
+278 - (2018-MAY-25) - Eachine Wizard X220S Upgraded FPV Racer Drone Flight Test Review.avi
+279 - (2018-MAY-25) - ET115 115mm Brushless Micro FPV Racer Drone Flight Test Review.avi
+280 - (2018-MAY-25) - Extreme Agility 6-Axis Quadcopter, WLToys V212 for Beginners AND Advanced.avi
+281 - (2018-MAY-25) - F15 Elves Micro Training Drone Flight Test Review.avi
+282 - (2018-MAY-25) - F522 Drone_ Cheap Syma X5C Clone Test Flight.avi
+283 - (2018-MAY-25) - F802D FPV Drone Night Flying.avi
+284 - (2018-MAY-25) - Fanstech X Pack 1 Folding FPV RC Quadcopter Drone Flight Test Review.avi
+285 - (2018-MAY-25) - Fayee FY530 Drone Test Flight Review.avi
+286 - (2018-MAY-25) - Fineco FX-2 Nano Drone Flight Test Review.avi
+287 - (2018-MAY-25) - Fineco FX-6C Camera Drone Flight Test Review.avi
+288 - (2018-MAY-25) - Flying 3D X6 GPS Drone Low Battery Auto Return (1).avi
+289 - (2018-MAY-25) - Flying 3D X6 GPS Drone Low Battery Auto Return.avi
+290 - (2018-MAY-25) - Flying 3D X8 Drone Gimbal Flight with HD Camera.avi
+291 - (2018-MAY-25) - Flying 3D X8 GPS Telemetry Drone Review.avi
+292 - (2018-MAY-25) - FLYPRO Squid Sepia Detective Artifact FPV Selfie Drone Flight Test Review.avi
+293 - (2018-MAY-25) - Flytec T11 DIY Building Block Drone Flight Test Review.avi
+294 - (2018-MAY-25) - Flytec T13 720p HD FPV Folding Selfie Drone Flight Test Review.avi
+295 - (2018-MAY-25) - Foxtech Lightning 210 RTF FPV Racing Drone Flight Test Review - YouTube.avi
+296 - (2018-MAY-25) - FQ777 124 Best Vacation Drones Night Flying.avi
+297 - (2018-MAY-25) - FQ777 955C Camera Drone Flight Test Review.avi
+298 - (2018-MAY-25) - FQ777 FQ18 FPV Dobby Clone Drone Flight Test Review.avi
+299 - (2018-MAY-25) - FQ777 FQ24 Folding FPV Camera Drone Flight Test Review.avi
+300 - (2018-MAY-25) - FQ777 FQ26 FPV Selfie Cube Drone Flight Test Review.avi
+301 - (2018-MAY-25) - FreeX Low Cost GPS Gimbal Camera Drone Flight Test Review.avi
+302 - (2018-MAY-25) - Furibee F90 Wasp Micro FPV Drone Flight Test Review.avi
+303 - (2018-MAY-25) - Furibee P180 180mm PNP BNF RTF FPV Racer Drone Flight Test Review.avi
+304 - (2018-MAY-25) - FX-21V the Voice Controlled Drone.avi
+305 - (2018-MAY-25) - FY326 Drone Night Flier.avi
+306 - (2018-MAY-25) - FY326 Q7 Drone_ Maneuverable, Cheap!.avi
+307 - (2018-MAY-25) - FY326 Q7 drone_Syma X5C clone!.avi
+308 - (2018-MAY-25) - FY326 Windy Day.avi
+309 - (2018-MAY-25) - FY328a Syma X5C Clone Test Flight.avi
+310 - (2018-MAY-25) - GoolRC G85 Brushless Micro FPV Racer Drone Flight Test Review.avi
+311 - (2018-MAY-25) - GoolRC G90 Pro Brushless Micro FPV Racer Drone Flight Test Review.avi
+312 - (2018-MAY-25) - GoolRC T8C Large Camera Drone Flight Test Review.avi
+313 - (2018-MAY-25) - GPToys F2C Aviax Drone with Autopilot Part 1.avi
+314 - (2018-MAY-25) - GTENG T903 Inverted Sport Drone Flight Test Review.avi
+315 - (2018-MAY-25) - GTENG T905C Ninja Altitude Hold Camera Drone Flight Test Review.avi
+316 - (2018-MAY-25) - GTeng T907W Cheetah Altitude Hold FPV Hexacopter Flight Test Review.avi
+317 - (2018-MAY-25) - GW007-1 the DM007 Upgrade Drone.avi
+318 - (2018-MAY-25) - Happymodel Mantis85 Brushless Micro FPV Racing Drone Flight Test Review.avi
+319 - (2018-MAY-25) - Helic Max 1328 Upside Down Drone Test Flight Review.avi
+320 - (2018-MAY-25) - Helic Max Sky Nighthawk 1331W Altitude Hold WiFi FPV Drone Flight Test Review.avi
+321 - (2018-MAY-25) - Helic Max Sky Vampire Tarantula X6 Clone with Altitude Hold.avi
+322 - (2018-MAY-25) - Helicute Hero H818HW Jello Free 720p FPV Camera Drone Flight Test Review.avi
+323 - (2018-MAY-25) - Helifar Fuuton 2 Brushless 215mm FPV Racer Flight Test Review.avi
+324 - (2018-MAY-25) - Heliway 903 Amazing Little Sport Drone Flight Test Review.avi
+325 - (2018-MAY-25) - Hengjin HJ H15 Drone Test Flight.avi
+326 - (2018-MAY-25) - HJ 993 Drone Best Beginners Nano Quadcopter.avi
+327 - (2018-MAY-25) - HJ818 Pathfinder Drone Improved Battery Test Flight.avi
+328 - (2018-MAY-25) - HJ818 Pathfinder Hexacopter Range Test Flight.avi
+329 - (2018-MAY-25) - How to Fly a Quadcopter Drone_ Banked Turns.avi
+330 - (2018-MAY-25) - HR SH5HD HD Camera Drone Flight Test Review.avi
+331 - (2018-MAY-25) - HT F801 Drone Acrobatics.avi
+332 - (2018-MAY-25) - HT F801 Drone Blue Sky Acrobatics.avi
+333 - (2018-MAY-25) - HT F801 Drone Orientation Modification.avi
+334 - (2018-MAY-25) - HT F801 Quadcopter Drone Test Flight.avi
+335 - (2018-MAY-25) - HT F801C Drone Test Flight 1 FPV.avi
+336 - (2018-MAY-25) - HT F802C Low Cost FPV Drone.avi
+337 - (2018-MAY-25) - HT F803 Camera Micro Drone with Headless Mode.avi
+338 - (2018-MAY-25) - Huajun W606-3 FPV Altitude Hold Drone Lily Clone Review.avi
+339 - (2018-MAY-25) - Huanqi HQ H899 Large Camera Drone with FPV Flight Test Review.avi
+340 - (2018-MAY-25) - Hubsan H501A Goggles FPV Flying.avi
+341 - (2018-MAY-25) - Hubsan H501C GPS Camera Drone Flight Test Review.avi
+342 - (2018-MAY-25) - Hubsan H501C GPS Camera Voyager Drone Flight Test Review.avi
+343 - (2018-MAY-25) - Hubsan H501M GPS Waypoints Follow Me and Circle Me Drone Flight Test Review.avi
+344 - (2018-MAY-25) - Hubsan H501S GPS Follow Me FPV Drone Park Flier Review.avi
+345 - (2018-MAY-25) - Hubsan H502E Best Beginners GPS Camera Drone.avi
+346 - (2018-MAY-25) - Hubsan H502E GPS Drone Tips for New Fliers.avi
+347 - (2018-MAY-25) - Hubsan HT006 GPS Follow Me Watch for ALL Hubsan GPS Drones Review.avi
+348 - (2018-MAY-25) - Huiying HY853 Micro Drone Test Flight.avi
+349 - (2018-MAY-25) - Ideafly F90 Octopus Micro FPV Racer Drone Flight Test Review.avi
+350 - (2018-MAY-25) - JDToys JD-11 Inspired FPV Camera Drone Flight Test Review.avi
+351 - (2018-MAY-25) - JJRC H11C Camera Drone Flight Test Review.avi
+352 - (2018-MAY-25) - JJRC H12CH Altitude Hold 1080p Camera Drone Flight Test Review.avi
+353 - (2018-MAY-25) - JJRC H13C Best Vacation Drones Night Flying.avi
+354 - (2018-MAY-25) - JJRC H13C Camera Drone Review.avi
+355 - (2018-MAY-25) - JJRC H18 Drone Micro Hexacopter Review.avi
+356 - (2018-MAY-25) - JJRC H20 Hexacopter Drone Review.avi
+357 - (2018-MAY-25) - JJRC H20H Hexacopter Drone Flight Test Review.avi
+358 - (2018-MAY-25) - JJRC H21 Hexacopter Drone Flight Test Review.avi
+359 - (2018-MAY-25) - JJRC H26D Camera Drone with Gimbal Flight Test Review.avi
+360 - (2018-MAY-25) - JJRC H27WH Firefly Altitude Hold FPV Drone Flight Test Review.avi
+361 - (2018-MAY-25) - JJRC H29H Altitude Hold Learn to Fly Drone Flight Test Review.avi
+362 - (2018-MAY-25) - JJRC H30C Micro Camera Drone Flight Test Review.avi
+363 - (2018-MAY-25) - JJRC H31 Waterproof Sport Drone Flight Test Review.avi
+364 - (2018-MAY-25) - JJRC H36 Tiny Whoop Blade Inductrix Clone Flight Test Review.avi
+365 - (2018-MAY-25) - JJRC H5P Drone Review Pt. 1 The Long Flier.avi
+366 - (2018-MAY-25) - JJRC H61 Optical Flow Folding Selfie Drone Flight Test Review.avi
+367 - (2018-MAY-25) - JJRC H6D FPV Drone Review.avi
+368 - (2018-MAY-25) - JJRC H8C Drone, Bat Out of Hell.avi
+369 - (2018-MAY-25) - JJRC H8C Drone, Got video jello_ Check this first..avi
+370 - (2018-MAY-25) - JJRC H8C Drone_ Poppies, Poppies.avi
+371 - (2018-MAY-25) - JJRC H8D Drone One Key Return Test Flight.avi
+372 - (2018-MAY-25) - JJRC H97 Syma X5C Clone Drone Flight Test Review.avi
+373 - (2018-MAY-25) - JJRC H98 Micro Camera Drone Flight Test Review.avi
+374 - (2018-MAY-25) - Juncheng 3015 2 Drone Speed Flying.avi
+375 - (2018-MAY-25) - Juncheng 3015-2 Drone Test Flight.avi
+376 - (2018-MAY-25) - JXD 388 vs. WLToys V252 Micro Quadcopter Comparison.avi
+377 - (2018-MAY-25) - JXD 392 Quadcopter Drone_ The Flying Tank.avi
+378 - (2018-MAY-25) - JXD 392 Quadcopter_ Backwards Pylon Racing - YouTube.avi
+379 - (2018-MAY-25) - JXD 509G Drone Easy Beginners FPV Flying.avi
+380 - (2018-MAY-25) - JY004A Drone Review, The Spidey Nano Quadcopter.avi
+381 - (2018-MAY-25) - Kagao Space Battleship Multirotor Drone Flight Test Review.avi
+382 - (2018-MAY-25) - Kai Deng K60 Drone Review Camera Test.avi
+383 - (2018-MAY-25) - Kai Deng K80 Pantonma Obstacle Avoidance Drone Flight Test Review.avi
+384 - (2018-MAY-25) - Kaideng K70 Sky Warrior FPV Conversion Flight Test Demonstration.avi
+385 - (2018-MAY-25) - KAIDENG K70C Sky Warrior Review, 2016's Best Toy Camera Drone.avi
+386 - (2018-MAY-25) - L6052 Quadcopter Drone, Cheap and Zippy Alias Clone.avi
+387 - (2018-MAY-25) - L6052 Quadcopter Drone, The Bumblebee Alias Clone.avi
+388 - (2018-MAY-25) - L6052 Quadcopter with Three Bladed Propellers.avi
+389 - (2018-MAY-25) - L6052 vs V636 vs V212 Quadcopter Pylon Race.avi
+390 - (2018-MAY-25) - Le Idea Idea8 Position Hold Folding HD Selfie Drone Flight Test Review.avi
+391 - (2018-MAY-25) - Lian Sheng LS 215 Inverted Drone Flight Test Review.avi
+392 - (2018-MAY-25) - LidiRC L15 FW Altitude Hold Camera Drone Flight Test Review.avi
+393 - (2018-MAY-25) - Lishitoys L6059 Foldable 720p HD FPV Obstacle Avoidance Drone Flight Test Review.avi
+394 - (2018-MAY-25) - Ming Wei X13 Cheap Micro Sport Drone Flight Test Review.avi
+395 - (2018-MAY-25) - MJX Bugs 2W B2W Long Range Desert Flight Test Review.avi
+396 - (2018-MAY-25) - MJX Bugs 2W B2W Long Range FPV Drone Test Flight Review.avi
+397 - (2018-MAY-25) - MJX Bugs 3H Brushless Altitude Hold 1080p FPV Camera Drone Flight Test Review.avi
+398 - (2018-MAY-25) - MJX Bugs 6 Brushless Sport Drone Flight Test Review.avi
+399 - (2018-MAY-25) - MJX RC Bugs 3 Brushless Drone FPV Flying Flight Test Review.avi
+400 - (2018-MAY-25) - MJX RC Bugs 3 Brushless Sport Drone Flight Test Review.avi
+401 - (2018-MAY-25) - MJX RC X400 Drone 808 #16 V3 Camera Test Flight.avi
+402 - (2018-MAY-25) - MJX RC X400 Drone High Speed Downwind Flying.avi
+403 - (2018-MAY-25) - MJX RC X400 Drone Test Flight.avi
+404 - (2018-MAY-25) - MJX RC X400 Drone with Some Thoughts on Motors.avi
+405 - (2018-MAY-25) - MJX RC X400 Drone With Velcro HD Camera Mount - YouTube.avi
+406 - (2018-MAY-25) - MJX X101 Drone Flight Test Review (The X8C Killer_).avi
+407 - (2018-MAY-25) - MJX X101A 720p HD FPV Camera Drone Flight Test Review.avi
+408 - (2018-MAY-25) - MJX X102H Large Altitude Hold Camera Drone Flight Test Review.avi
+409 - (2018-MAY-25) - MJX X400 Drone for Experts and Beginners, Really!.avi
+410 - (2018-MAY-25) - MJX X400 Drone Windy Day Flier.avi
+411 - (2018-MAY-25) - MJX X600 Hexacopter Drone Review.avi
+412 - (2018-MAY-25) - MJX X800 Hexacopter Drone Review with G Sensor.avi
+413 - (2018-MAY-25) - MJX X902 Micro Drone Flight Test Review.avi
+414 - (2018-MAY-25) - MJX X906T FPV Micro Drone Flight Test Review.avi
+415 - (2018-MAY-25) - Moontop M9916 Drone EZ Beginners Micro Part 1.avi
+416 - (2018-MAY-25) - Moontop M9916 Drone EZ Beginners Micro Part 2.avi
+417 - (2018-MAY-25) - Mould King 33034 Drone_ X5C Clone RTH Feature.avi
+418 - (2018-MAY-25) - Mould King 33041 808 Camera Desert Flight.avi
+419 - (2018-MAY-25) - Mould King 33041 Drone Review_ The DM007 Killer.avi
+420 - (2018-MAY-25) - Mould King 33041, The $20 Drone Flight Test Review.avi
+421 - (2018-MAY-25) - Mould King 33042 (Super A) Drone Review.avi
+422 - (2018-MAY-25) - Nihui NH-010 RTF Micro FPV Drone Flight Test Review.avi
+423 - (2018-MAY-25) - Nihui Toys U807 Drone Test Flight.avi
+424 - (2018-MAY-25) - Nihui U807 Best Vacation Drones Night Flying.avi
+425 - (2018-MAY-25) - Nihui U807 Drone Night Flying.avi
+426 - (2018-MAY-25) - Nihui U807 Drone RTH Compass Headless Mode.avi
+427 - (2018-MAY-25) - Nihui U807 drone, great Latrax Alias clone! - YouTube.avi
+428 - (2018-MAY-25) - Original L6052 Drone does Barrel Rolls.avi
+429 - (2018-MAY-25) - Parrot Mambo Minidrone Claw and Gun Drone Flight Test Review.avi
+430 - (2018-MAY-25) - Parrot Minidrone Airborne Night Maclane Flight Test Review.avi
+431 - (2018-MAY-25) - Pterosaur Flying Dinosaur FPV Drone FQ777 FQ19W YiLentury Flight Test Review.avi
+432 - (2018-MAY-25) - Qi Zhi QZ S8 720p HD FPV Foldable Camera Drone Flight Test Review.avi
+433 - (2018-MAY-25) - Quadcopter 101 Keeper Series The Wingsland Scarlet Minivet.avi
+434 - (2018-MAY-25) - Quadcopter Flying Tips.avi
+435 - (2018-MAY-25) - Quadcopter Flying Tutorial_ Turning Tips and Techniques.avi
+436 - (2018-MAY-25) - Quadcopter _Wobble of Death__ VRS Recovery and Avoidance.avi
+437 - (2018-MAY-25) - RC Leading RC126 Hexacopter Drone Flight Test Review.avi
+438 - (2018-MAY-25) - Red MJX Bugs 3 FPV Sport Drone Flight Test Review.avi
+439 - (2018-MAY-25) - Runcam HD Flight Test Tarantula X6 Drone.avi
+440 - (2018-MAY-25) - SG700 Optical Position Folding Selfie FPV Camera Drone Flight Test Review.avi
+441 - (2018-MAY-25) - ShengKai (Kai Deng) D10 Drone Flight Test Review.avi
+442 - (2018-MAY-25) - Simtoo Dragonfly Pro Folding Drone Controller Flight Test Review.avi
+443 - (2018-MAY-25) - SJRC S70W GPS Follow Me Camera Drone Flight Test Review.avi
+444 - (2018-MAY-25) - SJRC T40 Camera Drone Flight Test Review.avi
+445 - (2018-MAY-25) - Skytech M71 Scout Micro Tricopter Drone Flight Test Review.avi
+446 - (2018-MAY-25) - Super Easy Night Flyer, CG022 Quadcopter Drone.avi
+447 - (2018-MAY-25) - Syma Racing Drones X5C vs X5C-1.avi
+448 - (2018-MAY-25) - Syma X11 and X12 Drones, Fly Anywhere Machines.avi
+449 - (2018-MAY-25) - Syma X11 Drone Obstacle Course Flyer.avi
+450 - (2018-MAY-25) - Syma X11 vs X12 Drones, Which is best_.avi
+451 - (2018-MAY-25) - Syma X25 Pro GPS Camera Drone Review Pt 1 Range Testing.avi
+452 - (2018-MAY-25) - Syma X25W Long Flying position Hold FPV Drone Flight Test Review.avi
+453 - (2018-MAY-25) - Syma X5C Drone Breezy Flight through the Flowers.avi
+454 - (2018-MAY-25) - Syma X5C Drone Range Test with X11 Controller.avi
+455 - (2018-MAY-25) - Syma X5C Drone Take Along Vacation Flier.avi
+456 - (2018-MAY-25) - Syma X5C Drone, Low and Slow Flying.avi
+457 - (2018-MAY-25) - Syma X5C Drone, Mobius vs 808 Camera Shootout!.avi
+458 - (2018-MAY-25) - Syma X5C Flight Test Review With & Without Camera.avi
+459 - (2018-MAY-25) - Syma X5C Quadcopter Drone Maximum Range Modification.avi
+460 - (2018-MAY-25) - Syma X5C Quadcopter Drone Test Flight.avi
+461 - (2018-MAY-25) - Syma X5C vs WLToys V222 Quadcopter Drones Comparison Review.avi
+462 - (2018-MAY-25) - Syma X5C Windy Day.avi
+463 - (2018-MAY-25) - Syma X5C X5S 5.8Ghz FPV Upgrade Review.avi
+464 - (2018-MAY-25) - Syma X5C-1 Drone, Your Mother Could Fly This!.avi
+465 - (2018-MAY-25) - Syma X5SC X5SC-1 Headless Mode Drone.avi
+466 - (2018-MAY-25) - Syma X5SC-1 Upgraded Model Test Flight.avi
+467 - (2018-MAY-25) - Syma X5SW WiFi Interference.avi
+468 - (2018-MAY-25) - Syma X8C Drone Flying Like a DJI.avi
+469 - (2018-MAY-25) - Syma X8C Drone Headless Mode Camera Panning and RTH.avi
+470 - (2018-MAY-25) - Syma X8C Drone Helicopter Crane Shot.avi
+471 - (2018-MAY-25) - Syma X8C Venture_ Budget Phantom Clone Drone.avi
+472 - (2018-MAY-25) - Syma X8C Venture_ Cheap DJI Phantom Alternative.avi
+473 - (2018-MAY-25) - Syma X8C vs Tarantula X6 Drones Comparison Flights.avi
+474 - (2018-MAY-25) - Syma X8G Drone with 8MP HD Camera Review.avi
+475 - (2018-MAY-25) - Syma X8G Range Test with X8C Transmitter.avi
+476 - (2018-MAY-25) - Syma X8HG Large Altitude Hold Camera Drone Flight Test Review.avi
+477 - (2018-MAY-25) - Syma X9 Flycar Long Range Flying with X8C Controller.avi
+478 - (2018-MAY-25) - Tarantula X6 Drone Camera Mount Test #2.avi
+479 - (2018-MAY-25) - Tarantula X6 Drone Camera Mount Test #3.avi
+480 - (2018-MAY-25) - Tarantula X6 Drone Long Range Flying.avi
+481 - (2018-MAY-25) - Tarantula X6 Drone RTH Hyper IOC Test.avi
+482 - (2018-MAY-25) - Tarantula X6 Drone Test Flight.avi
+483 - (2018-MAY-25) - Tarantula X6 Drone Tube Mount Test.avi
+484 - (2018-MAY-25) - Tarantula X6 Drone Video and Hyper IOC Test.avi
+485 - (2018-MAY-25) - Tarantula X6 Drone_ Pushing the Envelope.avi
+486 - (2018-MAY-25) - Tarantula X6 vs. Syma X8C Drones Comparison Thoughts.avi
+487 - (2018-MAY-25) - Techboy TB802 Easy Motion Control Drone Flight Test Review.avi
+488 - (2018-MAY-25) - The Incredible JJRC H62 Splendor Cheapest Follow Me Selfie Drone - YouTube.avi
+489 - (2018-MAY-25) - Twilight Flight of My Little Drone Quadcopter (JXD 388).avi
+490 - (2018-MAY-25) - TX03 AIO FPV Camera Toy FPV Racer Conversion Flight Test Review.avi
+491 - (2018-MAY-25) - TYRC TY6 Sky Overlord Pendulum Stabilized HD Camera Drone Flight Test Review.avi
+492 - (2018-MAY-25) - U207 Intrude Drone Test Flight.avi
+493 - (2018-MAY-25) - UDI U27 Inverted Drone Flight Test Review.avi
+494 - (2018-MAY-25) - UDI U818A Crash Resistant Camera Drone.avi
+495 - (2018-MAY-25) - UDIRC U845 Hexacopter UFO Drone Flight Test Review.avi
+496 - (2018-MAY-25) - US Army F15 Eagle Drone Flight Test Review.avi
+497 - (2018-MAY-25) - Utoghter Yucheng FPV Camera Drone Flight Test Review.avi
+498 - (2018-MAY-25) - W609-10 Hexacopter Drone Test Flight Review.avi
+499 - (2018-MAY-25) - Walkera F210 Racing Drone Flight Test Review.avi
+500 - (2018-MAY-25) - Walkera Runner 250 Desert Run.avi
+501 - (2018-MAY-25) - Walkera Runner 250 FPV Racing Drone Review.avi
+502 - (2018-MAY-25) - Windy Day Flyer_ Eachine CG022 Quadcopter Drone.avi
+503 - (2018-MAY-25) - Wingsland M5 GPS Drone Distance Test and POI Circle Me Flight Test Review.avi
+504 - (2018-MAY-25) - WLToys Q222G 5.8 Ghz FPV Drone with Altitude Hold.avi
+505 - (2018-MAY-25) - WLToys Q333-A FPV DJI Inspire Clone Flight Test Review.avi
+506 - (2018-MAY-25) - WLToys Q373-E 720p HD FPV Camera Drone Flight Test Review.avi
+507 - (2018-MAY-25) - WLToys Q393A Dragonfly FPV Drone Flight Test Review.avi
+508 - (2018-MAY-25) - WLToys Q919-A FPV Tank Drone (B-Unstoppable Clone) Flight Test Review.avi
+509 - (2018-MAY-25) - WLToys V222 HD Camera Modification.avi
+510 - (2018-MAY-25) - WLToys V262 Cyclone Quadcopter_ Six-Axis High Performance Drone.avi
+511 - (2018-MAY-25) - WLToys V262 Quadcopter Drone Test Flight.avi
+512 - (2018-MAY-25) - WLToys V303 Best Vacation Drones GPS Relocation.avi
+513 - (2018-MAY-25) - WLToys V303 Best Vacation Drones Night Flying.avi
+514 - (2018-MAY-25) - WLToys V303 Drone GPS Perimeter Flight Review.avi
+515 - (2018-MAY-25) - WLToys V303 GPS Drone Jello Free Camera Mount.avi
+516 - (2018-MAY-25) - WLToys V303 Seeker GPS Drone Review.avi
+517 - (2018-MAY-25) - WLToys V383 Drone Test Flight Review.avi
+518 - (2018-MAY-25) - WLToys V636 Skylark Drone, How to do Funnels - YouTube.avi
+519 - (2018-MAY-25) - WLToys V636 Skylark Flies with V222 Battery.avi
+520 - (2018-MAY-25) - WLToys V636 Skylark, How to Use Headless Mode Part 1.avi
+521 - (2018-MAY-25) - WLToys V636 Skylark, Windy Day Flyer.avi
+522 - (2018-MAY-25) - WLToys V646 Nano Drone Flight Test.avi
+523 - (2018-MAY-25) - WLToys V666 Drone_ The Stable FPV Flier.avi
+524 - (2018-MAY-25) - WLToys V666 FPV Drone_ Easy to Fly!.avi
+525 - (2018-MAY-25) - WLToys V686G FPV Drone Gyro Calibration.avi
+526 - (2018-MAY-25) - WLToys V686G FPV Drone Range and Sunshade Test.avi
+527 - (2018-MAY-25) - Xiaomi Mi Drone Review Abandoned Gold Mine.avi
+528 - (2018-MAY-25) - Xiaomi MITU FPV Camera Drone Flight Test Review.avi
+529 - (2018-MAY-25) - Xinlin X191 Follower GPS FPV Camera Drone Flight Test Review.avi
+530 - (2018-MAY-25) - XinXun X-53F FPV Drone Test Flight Review.avi
+531 - (2018-MAY-25) - Xinxun X50 Drone Stops on a Dime.avi
+532 - (2018-MAY-25) - Xinxun X50 Micro Drone Test Flight.avi
+533 - (2018-MAY-25) - XK Alien X250 Drone Review.avi
+534 - (2018-MAY-25) - XK Alien X250 vs Nihui U807 Drones Comparison.avi
+535 - (2018-MAY-25) - XK Detect X380 Drone Flight at Mount Shasta.avi
+536 - (2018-MAY-25) - XK Detect X380 Drone Review.avi
+537 - (2018-MAY-25) - XK Detect X380 Gimbal Flight with Runcam HD Camera.avi
+538 - (2018-MAY-25) - XK Detect X380 Review Camera Gimbal Tilt Test.avi
+539 - (2018-MAY-25) - XK X252 5.8 Ghz FPV 3D Acro Sport Drone Flight Test Review.avi
+540 - (2018-MAY-25) - XK X300 F Long Flying Position Hold FPV Drone Review.avi
+541 - (2018-MAY-25) - XK X500 Drone with SJ5000X Elite and Gimbal.avi
+542 - (2018-MAY-25) - Yizhan i8h Tarantula Altitude Hold HD Camera Drone Flight Test Review.avi
+543 - (2018-MAY-25) - Yizhan iDrone i4s Micro Camera Drone Flight Test Review.avi
+544 - (2018-MAY-25) - Yu Xiang 668 R8W FPV Camera Drone Flight Test Review.avi
+545 - (2018-MAY-25) - ZC Toys Z1 Drone Flight Test Review.avi
+546 - (2018-MAY-25) - Zerotech Dobby Pocket FPV Selfie Drone Flight Test Review.avi
+547 - (2018-MAY-25) - Cheerson CX-20 Drone Altitude Hold Test Flight.avi
+548 - (2018-MAY-25) - Fayee FY560 Drone Large 5.8Ghz FPV Flier.avi
+549 - (2018-MAY-25) - XK Alien X250 Drone Night Flying.avi
+550 - (2019-JUN-21) - Attop W9 GPS Camera Drone Flight Test Review.avi
+551 - (2019-JUN-21) - Beta85X HD DVR 1080p 60fps Cinewhoop Racer Drone Flight Test Review.avi
+552 - (2019-JUN-21) - Eachine E013 Plus Acro FPV Trainer Drone Flight Test Review.avi
+553 - (2019-JUN-21) - Funsky 913 Brushless FPV GPS 1080p Camera Drone Flight Test Review.avi
+554 - (2019-JUN-21) - FXT 60FPS DVR For FPV Drone Recording Flight Test Review.avi
+555 - (2019-JUN-21) - Gofly Scorpion 80 Micro Whoop Drone FPV Racer Flight Test Review.avi
+556 - (2019-JUN-21) - GoolRC CSJ WiFi S166 Folding GPS 1080p Camera Drone Flight Test Review.avi
+557 - (2019-JUN-21) - iFlight TurboBee 77R Brushless Micro Whoop FPV Racer Drone Flight Test Review.avi
+558 - (2019-JUN-21) - JJRC H71 Optical Flow FPV Camera Drone Flight Test Review.avi
+559 - (2019-JUN-21) - JJRC JX02 Beginners 4 Channel RC Helicopter Flight Test Review.avi
+560 - (2019-JUN-21) - JJRC X3P Hax Plus Brushless FPV 1080p Camera Drone Flight Test Review.avi
+561 - (2019-JUN-21) - JJRC X6 Aircus Brushless Camera Drone with Two Axis Gimbal Flight Test Review.avi
+562 - (2019-JUN-21) - Jumper T16 16 Channel Multi Protocol RC Transmitter Flight Test Review.avi
+563 - (2019-JUN-21) - KF607 Folding 2K 4K Camera Drone Flight Test Review.avi
+564 - (2019-JUN-21) - KFPLAN KF606 Cheap Gyro Stabilized RC Airplane Flight Test Review.avi
+565 - (2019-JUN-21) - KK10S Folding GPS 1080p FPV Camera Drone Flight Test Review.avi
+566 - (2019-JUN-21) - MJX X104G Lightweight GPS FPV 1080p Camera Drone Flight Test Review.avi
+567 - (2019-JUN-21) - Potensic D60 GPS FPV Brushless 1080p Camera Drone Flight Test Review.avi
+568 - (2019-JUN-21) - QF008 Boeing 787 3 Channel RC Flying Scale Model Flight Test Review.avi
+569 - (2019-JUN-21) - S500 Brushless 1080p FPV GPS Drone Flight Test Review.avi
+570 - (2019-JUN-21) - SG106 1080p Optical Flow FPV Camera Drone Flight Test Review.avi
+571 - (2019-JUN-21) - SHRC H2 Locke Optical Flow Camera Selfie Drone Flight Test Review.avi
+572 - (2019-JUN-21) - URUAV UR7 Drone Backpack Review.avi
+573 - (2019-JUN-21) - URUAV UR85 Brushless Whoop FPV Racer Drone Flight Test Review.avi
+574 - (2019-JUN-21) - Wingsland M1 GPS Drone 2019 Version Flight Test Review.avi
+575 - (2019-JUN-21) - WLToys XK A120 3 Channel RC Flying Scale Model of A380 Airbus Flight Test Review.avi
+576 - (2019-JUN-21) - WLToys XK A150 Flying Boeing 747 Three Channel RC Model Flight Test Review.avi
+577 - (2019-JUN-21) - ZLRC Beast CSJ-X7 (SG906) Long Flying Brushless GPS Camera Drone Flight Test Review.avi
+578 - (2019-JUN-21) - ZLRC Beast SG906 (CSJ-X7) Folding Long Flying Brushless GPS Drone Flight Test Review.avi
