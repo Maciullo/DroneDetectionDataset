@@ -32,7 +32,7 @@ Recent high publicity events connected to UAVs pose both a risk of privacy intru
     <img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G2P8362.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G3P378.jpg" width="400"/>
 </div>
 And subsequent Haar Cascade/ANN training results:
-[YouTube Video] (https://www.youtube.com/watch?v=o6mxjR6GdA40
+[YouTube Video](https://www.youtube.com/watch?v=o6mxjR6GdA40
 
 ****
 
@@ -41,8 +41,8 @@ And subsequent Haar Cascade/ANN training results:
 ****
 
 Dataset availability: before full paper publication only snippet of 100 test & train images is available:
-- [Train Set Snippet] (https://drive.google.com/file/d/1UOfNPwkenGH4x1rOAbUr3TVtXN_RcKya/view?usp=sharing)
-- [Test Set Snippet] (https://drive.google.com/file/d/1uGXdLrQ9sZ4e2RaP2kMGa073jxeNQnIS/view?usp=sharing)
+- [Train Set Snippet](https://drive.google.com/file/d/1UOfNPwkenGH4x1rOAbUr3TVtXN_RcKya/view?usp=sharing)
+- [Test Set Snippet](https://drive.google.com/file/d/1uGXdLrQ9sZ4e2RaP2kMGa073jxeNQnIS/view?usp=sharing)
 Full dataset will be provided directly after article publication (approximately 5GB).
 
 ****
