@@ -11,7 +11,7 @@ Effort shown within the following repository and subsequent processing has been 
 
 ## License:
 
-The project is released under the MIT License for image tags. Video sources and corresponding  video images/frames were extracted from a list of videos available publically in the popular video service YouTube (full list of videos provided in the Video_Sources.txt file).
+The project is released under the MIT License for image tags. Video sources and corresponding  video images/frames were extracted from a list of videos available publically in the popular video service YouTube (full list of videos provided in the [Video_Sources.txt](https://github.com/Maciullo/DroneDetectionDataset/blob/master/Video_Sources.txt) file).
 
 ****
 
@@ -34,7 +34,7 @@ Recent high publicity events connected to UAVs pose both a risk of privacy intru
 
 ## Drone Detection Dataset:
 <div align="center">
-    <img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G2P8362.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G3P378.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G2P9718.jpg" width="400"/>
+    <img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/1909.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/4350.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G3P3932.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G3P4534.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G2P8362.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G3P378.jpg" width="400"/><img src="https://github.com/Maciullo/DroneDetectionDataset/blob/master/Fig/pos_G2P9718.jpg" width="400"/>
 </div>
 
 And subsequent Haar Cascade/ANN training results:
