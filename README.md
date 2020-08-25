@@ -52,7 +52,7 @@ Dataset availability: before full paper publication only snippet of 100 test & t
 - [Test Set Snippet](https://drive.google.com/file/d/1uGXdLrQ9sZ4e2RaP2kMGa073jxeNQnIS/view?usp=sharing)
 
 
-Full dataset will be provided directly after article publication (approximately 5GB).
+Full dataset will be provided directly after article publication (approximately 5GB), along with all obtained Haar Cascades and best performing ANN models.
 
 ****
 
