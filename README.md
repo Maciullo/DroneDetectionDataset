@@ -43,7 +43,7 @@ And subsequent Haar Cascade/ANN training results:
 ****
 
 ## Dataset description:
-The Drone Detection Dataset consists of 51446 train and 5375 test 640x480 RGB images presenting drones in different types, sizes, scales, positions, environments, times-of-day with corresponding XML labels set, prepared for Haar Cascade training (which can and was easily modified for ANN training applications). Presented frames were manually annotated by the first author. While initial labelling (test set plus approximately 2000 images) required extensive author work, the subsequent images were initially labelled by trained Haar Cascade/ANN to reduce annotation time. Dataset frames were automatically extracted from the beforementioned videos (approximately 50-140 frame). 
+The Drone Detection Dataset consists of 51446 train and 5375 test 640x480 RGB images presenting drones in different types, sizes, scales, positions, environments, times-of-day with corresponding XML labels set, prepared for Haar Cascade training (which can and was easily modified for ANN training applications). Presented frames were manually annotated by the first author. While initial labelling (test set plus approximately 4500 images) required extensive author work, the subsequent images were initially labelled by trained Haar Cascade/ANN to reduce annotation time. Dataset frames were automatically extracted from the beforementioned videos (approximately 50-140 frame). 
 
 ****
 
