@@ -38,7 +38,8 @@ Recent high publicity events connected to UAVs pose both a risk of privacy intru
 </div>
 
 And subsequent Haar Cascade/ANN training results:
-[YouTube Video](https://www.youtube.com/watch?v=o6mxjR6GdA40)
+- [YouTube Video 1](https://www.youtube.com/watch?v=o6mxjR6GdA40)
+- [YouTube Video 2](https://www.youtube.com/watch?v=omJNIRDiots)
 
 ****
 
@@ -53,11 +54,11 @@ Before full paper publication only snippet of 100 test & train images is availab
 - [Test Set Snippet](https://drive.google.com/file/d/1uGXdLrQ9sZ4e2RaP2kMGa073jxeNQnIS/view?usp=sharing)
 
 
-Full dataset will be provided directly after article publication (approximately 5GB), along with all obtained Haar Cascades and best performing ANN models.
+Full dataset (approximately 5GB) has been uploaded to one of the cloud storage services [Dataset Source](http://chomikuj.pl/pugipugi01/Storage/DroneDataset), along with all obtained Haar Cascades [Trained Haar Cascades Source](http://chomikuj.pl/pugipugi01/Storage/TrainedHaarCascades) and ANN models [Trained ANN Source](http://chomikuj.pl/pugipugi01/Storage/TrainedANNs/08_ssd_mobilenet_v1_01AUG2019).
 
 ****
 
 
 ## Citation:
 When using or referring to the dataset please consider citing the following papers: 
-- TO BE PROVIDED
+- [M. Ł. Pawełczyk and M. Wojtyra, "Real World Object Detection Dataset for Quadcopter Unmanned Aerial Vehicle Detection," in IEEE Access, vol. 8, pp. 174394-174409, 2020, doi: 10.1109/ACCESS.2020.3026192.](https://ieeexplore.ieee.org/document/9205392)
