@@ -13,6 +13,8 @@ Effort shown within the following repository and subsequent processing has been 
 
 The project is released under the MIT License for image tags. Video sources and corresponding  video images/frames were extracted from a list of videos available publically in the popular video service YouTube (full list of videos provided in the [Video_Sources.txt](https://github.com/Maciullo/DroneDetectionDataset/blob/master/Video_Sources.txt) file).
 
+For the models referenced in the paper and available through links below - please feel free to use them as need (but remeber that these come without any specific warranty and you use them at your own risk), but I highly encourage you to cite papers mentioned below.
+
 ****
 
 
@@ -54,6 +56,9 @@ Snippet of 100 test & train images:
 - [Test Set Snippet](https://drive.google.com/file/d/1uGXdLrQ9sZ4e2RaP2kMGa073jxeNQnIS/view?usp=sharing)
 
 Full dataset (approximately 5GB) has been uploaded to one of the cloud storage services [Dataset Source](http://chomikuj.pl/pugipugi01/Storage/DroneDataset), along with all obtained Haar Cascades [Trained Haar Cascades Source](http://chomikuj.pl/pugipugi01/Storage/TrainedHaarCascades) and ANN models [Trained ANN Source](http://chomikuj.pl/pugipugi01/Storage/TrainedANNs/08_ssd_mobilenet_v1_01AUG2019). It's mirror (available, but not maintained/supported) can be found [here (Train Dataset)](https://drive.google.com/file/d/13qZthSJzCVNtqlCiytvE4Y212QovId2G/view?usp=sharing) and [here (Test Dataset)](https://drive.google.com/file/d/1BbSRHLn8yPx9vdTIVhaKXFrsQRluPGtr/view?usp=sharing).
+
+## Model availability:
+10 best (sorted by accuracy) models referenced in the original paper can be found in the [cloud repository](https://drive.google.com/file/d/1FH-eifS6j8-Wo-ELcB-c1MdcdT3K5_HI/view?usp=sharing). Please feel free to use them as need (but remeber that these come without any specific warranty and you use them at your own risk), but I highly encourage you to cite papers mentioned below.
 
 ****
 
