@@ -52,8 +52,8 @@ The Drone Detection Dataset consists of 51446 train and 5375 test 640x480 RGB im
 
 ## Dataset availability: 
 Snippet of 100 test & train images:
-- [Train Set Snippet](https://drive.google.com/file/d/1UOfNPwkenGH4x1rOAbUr3TVtXN_RcKya/view?usp=sharing)
-- [Test Set Snippet](https://drive.google.com/file/d/1uGXdLrQ9sZ4e2RaP2kMGa073jxeNQnIS/view?usp=sharing)
+- [Train Set Snippet](https://drive.google.com/file/d/1rRr821XZ6qvedc1x2ZFeZivEzESLLAOm/view?usp=share_link)
+- [Test Set Snippet](https://drive.google.com/file/d/1gw08wFoN8Aop6BQBbYuCPGHiI8vQmTgI/view?usp=share_link)
 
 Full dataset (approximately 5GB) has been uploaded to one of the cloud storage services [Dataset Source](http://chomikuj.pl/pugipugi01/Storage/DroneDataset), along with all obtained Haar Cascades [Trained Haar Cascades Source](http://chomikuj.pl/pugipugi01/Storage/TrainedHaarCascades) and ANN models [Trained ANN Source](http://chomikuj.pl/pugipugi01/Storage/TrainedANNs/08_ssd_mobilenet_v1_01AUG2019). It's mirror (available, but not maintained/supported) can be found [here (Train Dataset)](https://drive.google.com/file/d/13qZthSJzCVNtqlCiytvE4Y212QovId2G/view?usp=sharing) and [here (Test Dataset)](https://drive.google.com/file/d/1BbSRHLn8yPx9vdTIVhaKXFrsQRluPGtr/view?usp=sharing).
 
