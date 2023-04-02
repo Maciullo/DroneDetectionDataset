@@ -58,7 +58,7 @@ Snippet of 100 test & train images:
 Full dataset (approximately 5GB) has been uploaded to one of the cloud storage services [Dataset Source](http://chomikuj.pl/pugipugi01/Storage/DroneDataset), along with all obtained Haar Cascades [Trained Haar Cascades Source](http://chomikuj.pl/pugipugi01/Storage/TrainedHaarCascades) and ANN models [Trained ANN Source](http://chomikuj.pl/pugipugi01/Storage/TrainedANNs/08_ssd_mobilenet_v1_01AUG2019). It's mirror (available, but not maintained/supported) can be found [here (Train Dataset)](https://drive.google.com/file/d/1lGumpFGdAvLWXhdLJCbkpv-Uo-t8fpHT/view?usp=sharing) and [here (Test Dataset)](https://drive.google.com/file/d/1dJdUIqTfW7InN76Xb3flWVrVmcficP93/view?usp=share_link).
 
 ## Model availability:
-10 best (sorted by accuracy) models referenced in the original paper can be found in the [cloud repository](https://drive.google.com/file/d/1FH-eifS6j8-Wo-ELcB-c1MdcdT3K5_HI/view?usp=sharing). Please feel free to use them as need (but remeber that these come without any specific warranty and you use them at your own risk), but I highly encourage you to cite papers mentioned below.
+10 best (sorted by accuracy) models referenced in the original paper can be found in the [cloud repository](https://drive.google.com/file/d/16L-iM56UxCbV9Hrn8mw6mTNpdZzJ4DbL/view?usp=sharing) along with corresponding CKPT files [cloud repository](https://drive.google.com/file/d/1IaauXRTq__rAMoThSh4GtKH93SIZLSAZ/view?usp=sharing). Please feel free to use them as need (but remeber that these come without any specific warranty and you use them at your own risk), but I highly encourage you to cite papers mentioned below.
 
 ****
 
