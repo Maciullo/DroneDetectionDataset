@@ -1,4 +1,4 @@
-# Real World Object Detection Dataset For Quadcopter Unmanned Aerial Vehicle (UAV):
+# Real World Object Detection Dataset For Quadcopter Unmanned Aerial Vehicle (UAV)
 Effort shown within the following repository and subsequent processing has been performed as a part of ongoing PhD on Engineering Applications of Artificial Intelligence over Warsaw University of Technology, Faculty of Power and Aeronautical Engineering, Warsaw, Poland.
 
 ****
